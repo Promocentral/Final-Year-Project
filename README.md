@@ -9,7 +9,7 @@ An Android app built with **Jetpack Compose** and **Firebase**.
 1. **Download ZIP** from GitHub  
 2. **Extract** the ZIP anywhere
 3. **Open** the project folder in **Android Studio**
-4. Let it build and settle down
+4. Let it build
 5. Press **Run**
 
 ---
