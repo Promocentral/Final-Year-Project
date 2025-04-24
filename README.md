@@ -23,6 +23,11 @@ An Android app built with **Jetpack Compose** and **Firebase**.
 
 ---
 
+## Things To Be Aware Of
+
+- All data is stored on Firebase, meaning that it is linked to my Google Account. If access is needed to check information, contact me and I will add you
+- Validation is in place so you will need to follow this format (RussianMobster21-), minimum 1 capital, 8 charactes long, 1 number and 1 special character.
+
 ## Contact Me
 
 Feel free to contact me
